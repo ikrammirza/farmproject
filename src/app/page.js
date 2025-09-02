@@ -39,7 +39,7 @@ export default function Home() {
           {
             title: "Solar Powered",
             desc: "Harnessing renewable energy to power farms efficiently.",
-            img: "/solar powered.jfif",
+            img: "/solar-powered.jpeg",
           },
           {
             title: "Zero-Waste Ecosystem",
